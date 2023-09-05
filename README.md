@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Sesame
 - 🌱 Learn JS, CSS
 - 🎮 Starblast Player
+
+![Graphics](https://github-readme-stats.vercel.app/api?username=rithyn&show_icons=true&theme=transparent)
