@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Discord-Status](https://discord.c99.nl/widget/theme-2/882990629838278746.png)
 - 🔭 I’m currently working on Sesame
 - 🌱 Learn JS, CSS
 - 🎮 Starblast Player
 
 ![Graphics](https://github-readme-stats.vercel.app/api?username=rithyn&show_icons=true&theme=transparent)
-![Discord-Status](https://discord.c99.nl/widget/theme-5/882990629838278746.png)
+![Discord-Status](https://discord.c99.nl/widget/theme-2/882990629838278746.png)
