@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🎮 Starblast Player
 
 ![Graphics](https://github-readme-stats.vercel.app/api?username=rithyn&show_icons=true&theme=transparent)
-![Discord-Status](https://discord.c99.nl/widget/theme-2/882990629838278746.png)
+
