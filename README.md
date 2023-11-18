@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Discord-Status](https://discord.c99.nl/widget/theme-2/882990629838278746.png)
+![Discord-Status](https://discord.c99.nl/widget/theme-4/882990629838278746.png)
 - 🔭 I’m currently working on Sesame
 - 🌱 Learn JS, CSS
 - 🎮 Starblast Player
