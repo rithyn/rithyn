@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Discord-Status](https://discord.c99.nl/widget/theme-4/882990629838278746.png)
 - 🔭 I’m currently working on Sesame
-- 🌱 Learn JS
-- 🎮 Starblast Player
+- 🌱 Learn C# / Unity
 
 ![Graphics](https://github-readme-stats.vercel.app/api?username=rithyn&show_icons=true&theme=transparent)
 
