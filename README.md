@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Sesame
 - 🌱 Learn C# / Unity
 
-![Graphics](https://github-readme-stats.vercel.app/api?username=rithyn&show_icons=true&theme=transparent)
-
