@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://discord.c99.nl/widget/theme-4/882990629838278746.png)
 
 <div align="center">
   
 # 👋 Hi There!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=00FFE0&center=true&vCenter=true&width=435&lines=Backend+Dev;Starblast+Modder+/+Player;Mainly+on+NodeJS)](https://git.io/typing-svg)
-![MasterHead](https://discord.c99.nl/widget/theme-4/882990629838278746.png)
 
 
 </div>
@@ -69,4 +67,6 @@ Here are some ideas to get you started:
 ## 🎯 Current Focus
 - 🔭 I’m currently working on Sesame
 - 🌱 Learn C# / Unity
+
+![MasterHead](https://discord.c99.nl/widget/theme-4/882990629838278746.png)
 
