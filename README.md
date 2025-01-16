@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 # 👋 Hi There!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=00FFE0&center=true&vCenter=true&width=435&lines=Backend+Dev;Starblast+Modder+/+Player;Mainly+on+NodeJS)](https://git.io/typing-svg)
+![MasterHead](https://discord.c99.nl/widget/theme-4/882990629838278746.png)
 
 
 </div>
