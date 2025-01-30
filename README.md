@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Gif](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
 
 <div align="center">
   
