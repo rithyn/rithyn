@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding"> 
 
 <div align="center">
-  
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding"> 
+
 # 👋 Hi There!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=00FFE0&center=true&vCenter=true&width=435&lines=Backend+Dev;Mainly+on+NodeJS)](https://git.io/typing-svg)
