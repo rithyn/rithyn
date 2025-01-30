@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding"> 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=rithyn&color=24292E)
 
 # 👋 Hi There!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=00FFE0&center=true&vCenter=true&width=435&lines=Backend+Dev;Mainly+on+NodeJS)](https://git.io/typing-svg)
 
+  ![Visitor Count](https://komarev.com/ghpvc/?username=rithyn&color=24292E)
 
 </div>
 
