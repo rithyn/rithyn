@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ### 📥 Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-002E3B?style=for-the-badge&logo=react&logoColor=blue" />
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
